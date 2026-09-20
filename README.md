@@ -222,4 +222,4 @@ rFactor is a full free version with all features and updates included. Enjoy the
 Don’t miss out on the adrenaline rush! Download rFactor now and hit the tracks with the best racing simulator available!
 
 ---
-**Last updated:** 2026-09-19 22:10:11 UTC
+**Last updated:** 2026-09-20 00:35:38 UTC
